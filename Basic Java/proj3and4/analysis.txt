@@ -1,0 +1,27 @@
+CSC 120 Project 4 Analysis
+Due 11/10 11:59 PM
+Richard Kim (n00923815@students.ncc.edu)
+
+
+I will not seek extra credit.
+
+
+1. How much time did you spend working on this project?
+About 1 and a half hours.
+
+
+2. Who, if anyone, helped you with this project?
+I worked on this project by myself.
+
+
+3. What was the most difficult part of this project?
+I didn't face any challenges with the project for the most part.
+
+
+4. Describe how you convinced yourself that your program works.
+I ran the code many times to make sure that the output was the same
+as the one in the instruction pdf. I also purposefully inputted wrong
+answers to make sure that the user got the right message when their
+answer was incorrect. When I was building the code, I tested each
+portion of the code one at a time to make sure that each part was
+working correctly as well.

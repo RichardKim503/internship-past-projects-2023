@@ -1,0 +1,36 @@
+CSC 120 Project 5 Analysis
+Due 12/7 11:59 PM
+Richard Kim (n00923815@students.ncc.edu)
+
+
+I will not be going for extra credit.
+
+
+1. How much time did you spend working on this project?
+About 5 hours.
+
+
+2. Who, if anyone, helped you with this project?
+I learned to how to read data from "rrdata.txt" from you, professor. I also
+read online about the Scanner API to learn how to use some of the methods
+such as hasNextLine(), nextLine(), hasNextInt(), etc.
+
+
+3. What was the most difficult part of this project?
+The most difficult part of the project was learning how to use the File object.
+At first, I had no idea how to read data from "rrdata.txt". But once I had figured
+it out, I had trouble with creating an object from a String and adding ridership
+data with the int. I would always skip of data using the nextLine() method. Then
+I learned that using a temporary variable that holds one line of data does not
+skip data and I managed to figure out how to read one line of data at a time.
+
+
+4. Describe how you convinced yourself that your program works.
+Before I used the data from "rrdata.txt", I created many objects using the source
+code that I had made. I used all three constructors and I made sure that the data
+that was being used was valid. So arrays that would have more than 20 indexes would
+stop at day 20 and all the other days would be disregarded. I also tested out every
+single method to make sure that I got the correct output. Once I got everything to
+work and the File Scanner to work, I put my custom stations in the text file to
+further test out my source code to make sure everything worked. I also made sure
+that the sample output matched my output.

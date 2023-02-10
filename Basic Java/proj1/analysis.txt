@@ -1,0 +1,16 @@
+Richard Kim n00923815
+
+1. How much time did you spend working on this project?
+At most two hours.
+
+2. Who, if anyone, helped you with this project?
+I worked on this project by myself.
+
+3. What was the most difficult part of this project?
+To be honest, this project wasn't that hard. But tracing was very tedious for me.
+Adapting to the Eclipse IDE from another IDE I used in high school was also
+an obstacle, but I adapted within a few minutes.
+
+4. Is there anything about your submission that you’re unhappy with?
+I feel that my comments could've been better since I didn't use comments as much back in my high school.
+But other than that, I think that my code works well.

@@ -1,0 +1,155 @@
+Richard Kim
+n00923815
+CSC 120 Project 2
+
+
+1. How long did it take you to complete this project?
+Less than one hour.
+
+
+2. What kind of help did you receive on this project, and from whom?
+I didn't recieve help and I worked on the project by myself.
+
+
+3. What was the most difficult challenge you faced in this project?
+I had an easy time with the project, there wasn't really a challenge that I faced.
+
+
+4. Are you sure your program works? Why or why not?
+I'm confident that my program works because when I was testing the code,
+I used both random dart results and manually set dart results. After
+testing my code, the highest score, the total score, if two darts have the
+same score, and whether you win or lose based on if you have 50 or more points
+all work properly. Below are the test parameters I used to test the program.
+
+I ran the code five times for random results:
+Dart 1: 13 x 1 = 13
+Dart 2: 6 x 3 = 18
+No two darts have the same score.
+
+Dart 1: 4 x 2 = 8
+Dart 2: 8 x 3 = 24
+No two darts have the same score.
+
+Dart 1: 13 x 2 = 26
+Dart 2: 6 x 1 = 6
+No two darts have the same score.
+
+Dart 1: 13 x 1 = 13
+Dart 2: 14 x 3 = 42
+No two darts have the same score.
+
+Dart 1: 6 x 3 = 18
+Dart 2: 7 x 2 = 14
+No two darts have the same score.
+
+Then I finished the code and used test parameters instead of random ones.
+d1 = new Dart(9,2);
+d2 = new Dart(18,1);
+d3 = new Dart(6,3);
+Dart 1: 9 x 2 = 18
+Dart 2: 18 x 1 = 18
+Dart 3: 6 x 3 = 18
+Two darts have the same score.
+The highest score is 18.
+The total score is 54.
+You win!
+
+d1 = new Dart(8,3);
+d2 = new Dart(4,2);
+d3 = new Dart(15,1);
+Dart 1: 8 x 3 = 24
+Dart 2: 4 x 2 = 8
+Dart 3: 15 x 1 = 15
+No two darts have the same score.
+The highest score is 24.
+The total score is 47.
+You lose!
+
+d1 = new Dart(15,3);
+d2 = new Dart(15,3);
+d3 = new Dart(12,3);
+Dart 1: 15 x 3 = 45
+Dart 2: 15 x 3 = 45
+Dart 3: 12 x 3 = 36
+Two darts have the same score.
+The highest score is 45.
+The total score is 126.
+You win!
+
+d1 = new Dart(7,3);
+d2 = new Dart(8,2);
+d3 = new Dart(8,2);
+Dart 1: 7 x 3 = 21
+Dart 2: 8 x 2 = 16
+Dart 3: 8 x 2 = 16
+Two darts have the same score.
+The highest score is 21.
+The total score is 53.
+You win!
+
+d1 = new Dart(4,1);
+d2 = new Dart(20,2);
+d3 = new Dart(4,1);
+Dart 1: 4 x 1 = 4
+Dart 2: 20 x 2 = 40
+Dart 3: 4 x 1 = 4
+Two darts have the same score.
+The highest score is 40.
+The total score is 48.
+You lose!
+
+d1 = new Dart(16,1);
+d2 = new Dart(16,2);
+d3 = new Dart(16,3);
+Dart 1: 16 x 1 = 16
+Dart 2: 16 x 2 = 32
+Dart 3: 16 x 3 = 48
+No two darts have the same score.
+The highest score is 48.
+The total score is 96.
+You win!
+
+d1 = new Dart(10,3);
+d2 = new Dart(10,3);
+d3 = new Dart(10,3);
+Dart 1: 10 x 3 = 30
+Dart 2: 10 x 3 = 30
+Dart 3: 10 x 3 = 30
+Two darts have the same score.
+The highest score is 30.
+The total score is 90.
+You win!
+
+d1 = new Dart(20,3);
+d2 = new Dart(30,2);
+d3 = new Dart(10,6);
+Dart 1: 20 x 3 = 60
+Dart 2: 0 x 2 = 0
+Dart 3: 10 x 0 = 0
+Two darts have the same score.
+The highest score is 60.
+The total score is 60.
+You win!
+
+d1 = new Dart(-20,3);
+d2 = new Dart(30,-2);
+d3 = new Dart(1,-6);
+Dart 1: 0 x 3 = 0
+Dart 2: 0 x 0 = 0
+Dart 3: 1 x 0 = 0
+Two darts have the same score.
+The highest score is 0.
+The total score is 0.
+You lose!
+
+d1 = new Dart(3,1);
+d2 = new Dart(20,3);
+d3 = new Dart(15,1);
+Dart 1: 3 x 1 = 3
+Dart 2: 20 x 3 = 60
+Dart 3: 15 x 1 = 15
+No two darts have the same score.
+The highest score is 60.
+The total score is 78.
+You win!

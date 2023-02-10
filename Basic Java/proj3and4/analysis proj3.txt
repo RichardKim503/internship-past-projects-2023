@@ -1,0 +1,37 @@
+CSC 120 Project 3 Analysis
+Due 10/28 11:59 PM
+Richard Kim (n00923815@students.ncc.edu)
+
+
+1. How long did it take you to complete this project?
+About 3 hours.
+
+
+2. What kind of help did you receive on this project, and from whom?
+I used zybooks to get help with the random class. Other than that,
+I worked on this project by myself.
+
+
+3. What was the most difficult challenge you faced in this project?
+Creating the parameterized constructor was actually tricky for me.
+I went through about two iterations of the parameterized constructor
+until I was happy with how it worked. Making the constructor check for
+invalid inputs such as numbers that were greater than 12 or less than 0,
+or attempts to multiply were challenging at first. But I used a variable
+that would force all three instance variables to randomize if it was true.
+After doing that, I had an easier time with the paramterized constructor
+and it worked out in the end.
+
+
+4. Why did you test the parameterized constructor the amount of times that you did?
+Are you confident that you tested all possible combinations of valid and invalid
+parameters?
+I tested the parameterized constructor 21 times, 10 times with valid parameters
+and 11 times with invalid. I tested the constructor with 10 valid parameters
+to make sure that all the numbers within the designated range in part 2 of the
+project came out corrected. Then I tested for invalid parameters. This included
+numbers that were not in the range in part 2, multiplication problems, division,
+negative numbers, and results that were negatives. Those parameters would output
+random questions instead. I'm confident that I tested all possible combinations
+because I tested many parameters that were in the allowed range and others that
+were not allowed as well.

@@ -1,0 +1,14 @@
+Richard Kim n00923815
+
+"Please enter the full name" is displayed
+fullName = Mr. Vladimir Guerrero Jr.
+posOfPeriod = 2
+"Position of period 2" is displayed
+someString = r. Vla
+"r. Vla" is displayed
+numChars = 25
+anotherString = Vladimir Guerrero J
+"Vladimir Guerrero J" is displayed
+posOfSpace = 8
+"Position of space 8" is displayed
+"r Guer" is displayed
